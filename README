@@ -1,0 +1,9 @@
+Just a simple example/experiment of how to ease the (sometimes painful) configuration of iptables by using a C preprocessor and a number of well-chosen macros. 
+
+Credit for the initial implementation and idea goes to Anatole Shaw. 
+
+run the example like:
+	
+	$ ./iptparser.sh ruleset.sh
+
+
