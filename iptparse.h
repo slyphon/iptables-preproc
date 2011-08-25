@@ -5,7 +5,8 @@
 #define nat -t nat
 #define add -A
 #define flush -F
-#define delete -X
+#define delete -D
+#define unchain -X
 #define policy -P
 #define in --in-interface
 #define out --out-interface
