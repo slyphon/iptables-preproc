@@ -1,5 +1,5 @@
-#ifndef FILE_IPTPARSE_GUARD
-#define FILE_IPTPARSE_GUARD
+#ifndef FILE_KEYWORDS_GUARD
+#define FILE_KEYWORDS_GUARD
 
 #define ipt iptables -v
 #define nat -t nat
@@ -33,4 +33,4 @@
 #define dnat -j DNAT --to-destination 
 #define snat -j SNAT --to-source 
 
-#endif /* !IPTPARSE_GUARD */
+#endif /* !FILE_KEYWORDS_GUARD */
